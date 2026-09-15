@@ -1,2 +1,4 @@
-Primera Tarea de Programación, el programa lo que hace es multiplicar dos numeros de 128 bits
-Luego al final imprime las direcciones en memoeria donde se aloja el resultado de 256 bits
+Primera Tarea de Programación, 
+
+El programa toma dos números de 128 bits, y los multiplica utilizando registros de 64 bits en total
+Luego al final imprime las direcciones en memoria donde se aloja el resultado de 256 bit
